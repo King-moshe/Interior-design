@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaWhatsapp } from 'react-icons/fa';
 
-function App() {
+function App() { 
   const products = [
     { id: 'A1', name: 'מוצר A1', imageUrl: '/images/pexels-fwstudio-33348-163993.jpg' },
     { id: 'A2', name: 'מוצר A2', imageUrl: '/images/pexels-laura-tancredi-7078687.jpg' },
